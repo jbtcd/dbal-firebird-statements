@@ -1,0 +1,1 @@
+SELECT rdb$get_context('SYSTEM', 'DB_NAME') from rdb$database;
